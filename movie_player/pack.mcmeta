@@ -1,0 +1,7 @@
+{
+    "pack": {
+      "pack_format": 71,
+      "description": "Plays Video on LocatorBar",
+      "supported_formats": [71,99]
+    }
+  }
