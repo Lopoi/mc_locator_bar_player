@@ -15,3 +15,11 @@ It was fun.
 ## Any examples?
 
 - Here is [Bad Apple](https://www.youtube.com/watch?v=CAf7lVHYQT8)
+
+## Wait, but does the datapack generate the entities?
+
+Ohh yeah no.. you need to set them up like the "council of llamas"
+
+![Council of Llamas](https://github.com/Lopoi/mc_locator_bar_player/blob/main/council.jpg?raw=true)
+
+I will work on making a function to prepare them for you.
