@@ -14,7 +14,7 @@ It was fun.
 
 ## Any examples?
 
-- Here is [Bad Apple](https://www.youtube.com/watch?v=CAf7lVHYQT8)
+- Here is [Bad Apple](https://www.youtube.com/watch?v=CAf7lVHYQT8) (lines are in bad_apple.zip in case you want to try them out)
 
 ## Wait, but does the datapack generate the entities?
 
